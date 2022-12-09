@@ -3,16 +3,18 @@
 
 
 int[] array = GetArray(8);
-Console.WriteLine($"[{String.Join(",", array)}]");
+
+Console.WriteLine($"->[{String.Join(",", array)}]");
 
 
 int[] GetArray(int size)
 {
-    int[] res = new int  [size];
+    int[] res = new int [size];
     for (int i = 0; i < size; i++)
     {
         res[i] = new Random().Next(0,100);
+        Console.Write($" {res [i]}");
     }
-
+    
     return res;
 }
