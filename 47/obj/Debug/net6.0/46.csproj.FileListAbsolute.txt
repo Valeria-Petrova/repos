@@ -1,0 +1,15 @@
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\bin\Debug\net6.0\46.exe
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\bin\Debug\net6.0\46.deps.json
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\bin\Debug\net6.0\46.runtimeconfig.json
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\bin\Debug\net6.0\46.dll
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\bin\Debug\net6.0\46.pdb
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\obj\Debug\net6.0\46.csproj.AssemblyReference.cache
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\obj\Debug\net6.0\46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\obj\Debug\net6.0\46.AssemblyInfoInputs.cache
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\obj\Debug\net6.0\46.AssemblyInfo.cs
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\obj\Debug\net6.0\46.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\obj\Debug\net6.0\46.dll
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\obj\Debug\net6.0\refint\46.dll
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\obj\Debug\net6.0\46.pdb
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\obj\Debug\net6.0\46.genruntimeconfig.cache
+C:\Users\Валерия\Desktop\знакомство с С#\seminar\47\obj\Debug\net6.0\ref\46.dll
